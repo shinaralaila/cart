@@ -1,0 +1,15 @@
+.form-control{
+  border-radius:3px;
+  width:600px;
+  margin-left:20px;  
+}
+.search-icon{
+    
+    position:relative;
+    z-index:10;
+    margin-left:50%;
+    
+}
+.btn {
+  margin-left:120%;
+}
